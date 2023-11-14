@@ -2,9 +2,9 @@ body {
     background: rgb(223, 223, 233)
 }
 
-h1(
+h1{
     text-align center;
-)
+}
 
 p{
     text-align center;
